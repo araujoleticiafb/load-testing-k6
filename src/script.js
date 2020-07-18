@@ -79,6 +79,6 @@ export default function() {
             });
             console.log(createUser.body);
         }); 
-        sleep(1);
+        sleep(10);
     });
 }
