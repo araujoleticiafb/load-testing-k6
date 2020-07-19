@@ -9,7 +9,7 @@ For installation follow [https://k6.io/docs/getting-started/installation](https:
 No graphics results.
 
 1. Go to folder where is your tests and execute: 
- - k6 run script.js
+ 	- k6 run script.js
 
 ### Running cloud tests
 Graphics results.
