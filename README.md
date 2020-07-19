@@ -14,6 +14,6 @@ No graphics results.
 ### Running cloud tests
 Graphics results.
  1. Create a user at [https://k6.io/cloud](https://k6.io/cloud);
- 2. Copy token, which is shown at [https://k6.io/cloud], and paste to terminal;
+ 2. Copy token, which is shown at https://k6.io/cloud, and paste to terminal;
  3.  Then go to folder where is your tests and execute: 
 		- k6 run -o cloud script.js
